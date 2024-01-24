@@ -9,3 +9,5 @@ En este proyecto se realizara un análisis especifico de los datos enfocado a tr
 - Matplotib
 
 - Pandas
+- 
+![registro](https://github.com/GabrielChavezC/Proyecto_integrador_ds/assets/155968191/505cca0b-918a-47c4-897b-2169b4965cd7)
